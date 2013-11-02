@@ -12,7 +12,7 @@ First of all, I have no idea how Java works and I propably never will get this. 
 
 Anyway, I know how to use XML, GIMP and I even understand *some* of the Java code in here, so I changed quite a bit.
 
-- ADDED: A funny warning at the irst start.
+- ADDED: A funny warning at the first start.
 - ADDED: Strings.
 - CHANGED: Some of the texts.
 - CHANGED: The Icon to a better one.
